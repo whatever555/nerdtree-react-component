@@ -1,4 +1,4 @@
-NERDTree Extension for creating React Components
+zERDTree Extension for creating React Components
 =============
 
 Introduction
@@ -65,3 +65,7 @@ apt-vim install -y https://github.com/whatever555/nerdtree-react-component.git
 ```
 
 
+Usage
+------------
+
+In the NERDTree explorer type `m` to open the menu. You should see a new option added to the list for adding a react component folder. Type `t` and enter your react component's name. There should now be a new directory created for your component including a `__tests__`, `__mocks__` and `__stories__` sub folders.

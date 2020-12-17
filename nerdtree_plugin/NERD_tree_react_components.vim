@@ -9,7 +9,7 @@ function! s:setupNERDTreeListeners(listener) abort
 endfunction
 
 function! s:onNERDTreeInit() abort
-    call NERDTreeAddMenuItem({'text': 'add a (z)eact component', 'shortcut': 'z', 'callback': 'NERDTreeAddReactComponentNode'})
+    call NERDTreeAddMenuItem({'text': 'add a reac(t) component', 'shortcut': 't', 'callback': 'NERDTreeAddReactComponentNode'})
 endfunction
 
 augroup nerdtreereactcomponentplugin
