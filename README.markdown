@@ -4,7 +4,7 @@ NERDTree Extension for creating React Components
 Introduction
 ------------
 
-This plugin adds functionaly to [NerdTree](https://github.com/preservim/nerdtree) to give you the option to add react component folders.  
+This plugin allows you to add a React/Typescript component folder from [NerdTree](https://github.com/preservim/nerdtree).
 
 
 ![NERDTree React Component Screenshot](https://user-images.githubusercontent.com/1413475/102447066-2135ac80-4027-11eb-8d85-a6332a12b710.png)
