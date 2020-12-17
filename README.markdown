@@ -69,3 +69,9 @@ Usage
 ------------
 
 In the NERDTree explorer type `m` to open the menu. You should see a new option added to the list for adding a react component folder. Type `t` and enter your react component's name. There should now be a new directory created for your component including a `__tests__`, `__mocks__` and `__stories__` sub folders.
+
+
+Help
+------------
+
+`:help NERDTreeReactComponent`
