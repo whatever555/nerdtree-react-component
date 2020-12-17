@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+Help	README.markdown	/^Help$/;"	s
+Installation	README.markdown	/^Installation$/;"	s
+Introduction	README.markdown	/^Introduction$/;"	s
+NERDTree Extension for creating React Components	README.markdown	/^NERDTree Extension for creating React Components$/;"	c
+NERDTreeAddReactComponentNode	nerdtree_plugin/NERD_tree_react_components.vim	/^function! NERDTreeAddReactComponentNode()$/;"	f
+Usage	README.markdown	/^Usage$/;"	s
+Vim 8+ packages	README.markdown	/^#### Vim 8+ packages$/;"	t
+[Vundle.vim](https://github.com/VundleVim/Vundle.vim)	README.markdown	/^#### [Vundle.vim](https:\/\/github.com\/VundleVim\/Vundle.vim)$/;"	t
+[apt-vim](https://github.com/egalpin/apt-vim)	README.markdown	/^#### [apt-vim](https:\/\/github.com\/egalpin\/apt-vim)$/;"	t
+[dein.vim](https://github.com/Shougo/dein.vim)	README.markdown	/^#### [dein.vim](https:\/\/github.com\/Shougo\/dein.vim)$/;"	t
+[pathogen.vim](https://github.com/tpope/vim-pathogen)	README.markdown	/^#### [pathogen.vim](https:\/\/github.com\/tpope\/vim-pathogen)$/;"	t
+[vim-plug](https://github.com/junegunn/vim-plug)	README.markdown	/^#### [vim-plug](https:\/\/github.com\/junegunn\/vim-plug)$/;"	t
+g:NERDTreeOldSortOrder	nerdtree_plugin/NERD_tree_react_components.vim	/^            let g:NERDTreeOldSortOrder = []$/;"	v
+loaded_nerd_tree_react_components	nerdtree_plugin/NERD_tree_react_components.vim	/^let loaded_nerd_tree_react_components = 1$/;"	v
+nerdtreereactcomponentplugin	nerdtree_plugin/NERD_tree_react_components.vim	/^augroup nerdtreereactcomponentplugin$/;"	a
+s:NTRCInputPrompt	nerdtree_plugin/NERD_tree_react_components.vim	/^function! s:NTRCInputPrompt(action)$/;"	f
+s:onNERDTreeInit	nerdtree_plugin/NERD_tree_react_components.vim	/^function! s:onNERDTreeInit() abort$/;"	f
+s:setupNERDTreeListeners	nerdtree_plugin/NERD_tree_react_components.vim	/^function! s:setupNERDTreeListeners(listener) abort$/;"	f

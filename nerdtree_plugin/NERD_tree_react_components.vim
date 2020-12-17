@@ -44,7 +44,7 @@ function! NERDTreeAddReactComponentNode()
     endif
 
     try
-        let filesAndFolders = [ newNodeName . '/index.tsx', newNodeName . "/__tests__/index.tsx",  newNodeName . '/__mocks__/index.mock.ts', newNodeName . '/__stories/index.tsx' ]
+        let filesAndFolders = [ newNodeName . '/index.tsx', newNodeName . "/__tests__/index.spec.tsx",  newNodeName . '/__mocks__/index.mock.ts', newNodeName . '/__stories/index.stories.tsx' ]
 
         let filesAdded = 0
         while filesAdded < len(filesAndFolders)
