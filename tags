@@ -10,6 +10,7 @@ Installation	README.markdown	/^Installation$/;"	s
 Introduction	README.markdown	/^Introduction$/;"	s
 NERDTree Extension for creating React Components	README.markdown	/^NERDTree Extension for creating React Components$/;"	c
 NERDTreeAddReactComponentNode	nerdtree_plugin/NERD_tree_react_components.vim	/^function! NERDTreeAddReactComponentNode()$/;"	f
+Requirements	README.markdown	/^Requirements$/;"	s
 Usage	README.markdown	/^Usage$/;"	s
 Vim 8+ packages	README.markdown	/^#### Vim 8+ packages$/;"	t
 [Vundle.vim](https://github.com/VundleVim/Vundle.vim)	README.markdown	/^#### [Vundle.vim](https:\/\/github.com\/VundleVim\/Vundle.vim)$/;"	t
