@@ -1,4 +1,4 @@
-zERDTree Extension for creating React Components
+NERDTree Extension for creating React Components
 =============
 
 Introduction
@@ -46,6 +46,7 @@ call vundle#end()
 ```
 
 #### [vim-plug](https://github.com/junegunn/vim-plug)
+
 ```vim
 call plug#begin()
 Plug 'whatever555/nerdtree-react-component'
