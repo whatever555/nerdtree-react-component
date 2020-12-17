@@ -7,7 +7,7 @@ Introduction
 This plugin adds functionaly to NERDTree to give you the option to add react component folders.  
 
 
-![NERDTree React Component Screenshot](https://user-images.githubusercontent.com/1413475/102446522-e8490800-4025-11eb-88a5-77c951cc6d5c.png)
+![NERDTree React Component Screenshot](https://user-images.githubusercontent.com/1413475/102447066-2135ac80-4027-11eb-8d85-a6332a12b710.png)
 
 Installation
 ------------
