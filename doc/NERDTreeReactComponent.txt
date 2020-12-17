@@ -1,0 +1,26 @@
+CONTENTS
+
+    1.Intro...................................|NERDTreeReactComponent|
+    2.Requirements............................|NERDTreeReactComponentRequirements|
+    3.Usage...................................|NERDTreeReactComponentUsage|
+    4.License.................................|NERDTreeReactComponentLicense|
+
+==============================================================================
+1. Intro                                                *NERDTreeReactComponent*
+
+The NERDTreeReactComponent allows you to create a folder for new react components using the [NerdTree](https://github.com/preservim/nerdtree) vim plugin 
+
+==============================================================================
+2. Requirements                                         *NERDTreeReactComponentRequirements*
+You need to have a working verion of [NerdTree](https://github.com/preservim/nerdtree) running on vim
+
+
+==============================================================================
+3. Usage                                                *NERDTreeReactComponentUsage*
+In the NERDTree explorer type `m` to open the menu. You should see a new option added to the list for adding a react component folder. Type `z` and enter your react component's name. There should now be a new directory created for your component including a `__tests__`, `__mocks__` and `__stories__` sub folders.
+
+------------------------------------------------------------------------------
+4. License                                              *NERDTreeReactComponentLicense*
+NERDTreeReactComponent uses the same licensing as NERDTree
+See http://sam.zoy.org/wtfpl/COPYING.
+
